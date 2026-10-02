@@ -1,0 +1,3 @@
+# Floating bar with soft corners to match window rounding
+margin = "6 10"
+radius = 12
