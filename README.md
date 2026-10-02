@@ -31,9 +31,11 @@ the British way.
 
 ## Image credits
 
-Both backgrounds are photographs of the IBM Datacentre on King Street, Toronto. They are reproduced unmodified (format conversion only) and are not owned by the author of this theme. All rights remain with the original copyright holder.
-
-- `01-kingst-datacentre.webp` — Source: [SOURCE NAME](SOURCE_URL)
-- `02-kingst-datacentre-1963.webp` — Photo, 1963. Source: [SOURCE NAME](SOURCE_URL)
+Both backgrounds are photographs of the IBM Datacentre on King Street, Toronto, the second
+dated 1963. They are reproduced unmodified apart from format conversion, and they are **not
+owned by the author of this theme** — all rights remain with the original copyright holder.
+These images appear on many sites without consistent attribution and the original source could
+not be established; if you are the rights holder, or know who is, please open an issue and it
+will be credited or removed.
 
 The theme files themselves (colors.toml, shell.bar.toml, icons.theme) are free to use and modify.
